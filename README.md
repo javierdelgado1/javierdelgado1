@@ -15,7 +15,7 @@
 
 <br />
 
-<img src="https://media2.giphy.com/media/wcgn5fVDjvR7pdvz4C/giphy.gif?cid=790b7611f74f00b2f8a6502c30024711cc6a3be9d4201935&rid=giphy.gif&ct=g" alt="" width="160" /><img src="https://media2.giphy.com/media/wcgn5fVDjvR7pdvz4C/giphy.gif?cid=790b7611f74f00b2f8a6502c30024711cc6a3be9d4201935&rid=giphy.gif&ct=g" alt="" width="160" /><img src="https://media2.giphy.com/media/wcgn5fVDjvR7pdvz4C/giphy.gif?cid=790b7611f74f00b2f8a6502c30024711cc6a3be9d4201935&rid=giphy.gif&ct=g" alt="" width="160" /><img  src="https://media2.giphy.com/media/wcgn5fVDjvR7pdvz4C/giphy.gif?cid=790b7611f74f00b2f8a6502c30024711cc6a3be9d4201935&rid=giphy.gif&ct=g" alt="" width="160" /><img src="https://media2.giphy.com/media/wcgn5fVDjvR7pdvz4C/giphy.gif?cid=790b7611f74f00b2f8a6502c30024711cc6a3be9d4201935&rid=giphy.gif&ct=g" alt="" width="160" />
+<img src="https://media2.giphy.com/media/wcgn5fVDjvR7pdvz4C/giphy.gif?cid=790b7611f74f00b2f8a6502c30024711cc6a3be9d4201935&rid=giphy.gif&ct=g" alt="" width="160" /><img src="https://media2.giphy.com/media/wcgn5fVDjvR7pdvz4C/giphy.gif?cid=790b7611f74f00b2f8a6502c30024711cc6a3be9d4201935&rid=giphy.gif&ct=g" alt="" width="160" /><img src="https://media2.giphy.com/media/wcgn5fVDjvR7pdvz4C/giphy.gif?cid=790b7611f74f00b2f8a6502c30024711cc6a3be9d4201935&rid=giphy.gif&ct=g" alt="" width="160" />
 
 ## 🎧 Spotify Playing
 
