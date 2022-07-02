@@ -69,8 +69,8 @@
 <a href="https://app.daily.dev/javierdelgado1"><img src="https://api.daily.dev/devcards/7099552773f941db92e7c7299aa6188a.png?r=zi5" align="right" height="100%" width="35%" alt="Javier Delgado Dev Card"/></a>
 
 
-<img alt="Javier Delgado Github Stats" src="https://github-readme-stats.vercel.app/api?username=javierdelgado1&theme=vue&hide_border=false&include_all_commits=true&count_private=true" width="540" /><a href="https://app.daily.dev/javierdelgado1">
-<img alt="Javier Delgado Github Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=javierdelgado1&theme=vue&hide_border=false" width="540" /><img alt="Javier Delgado Github Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=javierdelgado1&theme=vue&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="540" />
+<img alt="Javier Delgado Github Stats" src="https://github-readme-stats.vercel.app/api?username=javierdelgado1&theme=vue&hide_border=false&include_all_commits=true&count_private=true" width="500" /><a href="https://app.daily.dev/javierdelgado1">
+<img alt="Javier Delgado Github Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=javierdelgado1&theme=vue&hide_border=false" width="500" /><img alt="Javier Delgado Github Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=javierdelgado1&theme=vue&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="500" />
 
 ![Javier Delgado GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=javierdelgado1&hide_border=false&theme=react-dark)
 
