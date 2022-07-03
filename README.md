@@ -1,7 +1,12 @@
-### Hi there, I'm ✨ [Javier Delgado][website] ✨
+### Hi there, I'm ✨ [Javier Delgado Computer Engineer][website] ✨
 
-## I'm a full stack <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 /><img align="right" src="https://i.giphy.com/media/LmNwrBhejkK9EFP504/200w.webp" alt="Programmation" width="200" />
+## I'm a full stack <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 /><img align="right" src="https://i.giphy.com/media/Ps3UNgJew0H7y/200w.webp" alt="Programmation" width="300" />
 
+<b>
+I'm passionate about everything related to technology, computing, application development in the web environment, systems, web pages, databases, computer security, search engine optimization, technology, internet, robotics and electronics
+
+I have always felt a great interest in technology, especially in computers and everything related to them, this motivated me to delve into how they work and to know how they can be developed, knowing that this is the future, so I decided to study Computer Engineering
+</b>
 - 👨🏻‍💻 Developer with more then 8 years experience
 <!-- - 🎨 I’m currently creating a [NFT project][websitenftlove] ❤️!
 - 📝 I’m currently writing a [Blog about technologies][websitekilukrudev] ✍️🖊️!
@@ -15,7 +20,7 @@
 
 <br />
 
-<img src="https://media2.giphy.com/media/wcgn5fVDjvR7pdvz4C/giphy.gif?cid=790b7611f74f00b2f8a6502c30024711cc6a3be9d4201935&rid=giphy.gif&ct=g" alt="" width="160" /><img src="https://media2.giphy.com/media/wcgn5fVDjvR7pdvz4C/giphy.gif?cid=790b7611f74f00b2f8a6502c30024711cc6a3be9d4201935&rid=giphy.gif&ct=g" alt="" width="160" /><img src="https://media2.giphy.com/media/wcgn5fVDjvR7pdvz4C/giphy.gif?cid=790b7611f74f00b2f8a6502c30024711cc6a3be9d4201935&rid=giphy.gif&ct=g" alt="" width="160" />
+<!-- <img src="https://media2.giphy.com/media/wcgn5fVDjvR7pdvz4C/giphy.gif?cid=790b7611f74f00b2f8a6502c30024711cc6a3be9d4201935&rid=giphy.gif&ct=g" alt="" width="160" /><img src="https://media2.giphy.com/media/wcgn5fVDjvR7pdvz4C/giphy.gif?cid=790b7611f74f00b2f8a6502c30024711cc6a3be9d4201935&rid=giphy.gif&ct=g" alt="" width="160" /><img src="https://media2.giphy.com/media/wcgn5fVDjvR7pdvz4C/giphy.gif?cid=790b7611f74f00b2f8a6502c30024711cc6a3be9d4201935&rid=giphy.gif&ct=g" alt="" width="160" /> -->
 
 ## 🎧 Spotify Playing
 
@@ -70,7 +75,8 @@
 
 
 <img alt="Javier Delgado Github Stats" src="https://github-readme-stats.vercel.app/api?username=javierdelgado1&theme=Default&hide_border=false&include_all_commits=true&count_private=true" width="520" /><a href="https://app.daily.dev/javierdelgado1">
-<img alt="Javier Delgado Github Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=javierdelgado1&theme=Default&hide_border=false" width="520" /><img alt="Javier Delgado Github Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=javierdelgado1&theme=Default&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="7000" />
+<img alt="Javier Delgado Github Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=javierdelgado1&theme=Default&hide_border=false" width="520" />
+<!-- <img alt="Javier Delgado Github Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=javierdelgado1&theme=Default&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="7000" /> -->
 
 ![Javier Delgado GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=javierdelgado1&hide_border=false&theme=minimal)
 
