@@ -71,7 +71,8 @@ I have always felt a great interest in technology, especially in computers and e
 
 ## 📊 Stats
 
-<a href="https://app.daily.dev/javierdelgado1"><img src="https://api.daily.dev/devcards/7099552773f941db92e7c7299aa6188a.png?r=zi5" align="right" height="100%" width="36%" alt="Javier Delgado Dev Card"/></a>
+<!--<a href="https://app.daily.dev/javierdelgado1"><img src="https://api.daily.dev/devcards/7099552773f941db92e7c7299aa6188a.png?r=zi5" align="right" height="100%" width="36%" alt="Javier Delgado Dev Card"/></a>-->
+<a href="https://app.daily.dev/javierdelgado1"><img src="https://github.com/rebelchris/rebelchris/blob/master/devcard.svg" align="right" height="100%" width="36%" alt="Javier Delgado Dev Card"/></a>
 
 
 <img alt="Javier Delgado Github Stats" src="https://github-readme-stats.vercel.app/api?username=javierdelgado1&theme=Default&hide_border=false&include_all_commits=true&count_private=true" width="520" /><a href="https://app.daily.dev/javierdelgado1">
