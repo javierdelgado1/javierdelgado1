@@ -83,7 +83,7 @@ I have always felt a great interest in technology, especially in computers and e
 
 <br /><br />
 
-<img src="https://i.giphy.com/media/W0crByKlXhLlC/200.webp" alt="Programmation" width="200" /><img src="https://media3.giphy.com/media/RgAl2ESJFnIQ0/giphy.gif" alt="Spock" width="200" /><br>
+<!--<img src="https://i.giphy.com/media/W0crByKlXhLlC/200.webp" alt="Programmation" width="200" /><img src="https://media3.giphy.com/media/RgAl2ESJFnIQ0/giphy.gif" alt="Spock" width="200" /><br>-->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=33AFFF&vCenter=true&lines=Thanks+for+visiting!+You're+welcome!)](https://git.io/typing-svg)
 
 [website]: https://javierdelgado.com.ve
