@@ -22,14 +22,6 @@ I have always felt a great interest in technology, especially in computers and e
 
 <!-- <img src="https://media2.giphy.com/media/wcgn5fVDjvR7pdvz4C/giphy.gif?cid=790b7611f74f00b2f8a6502c30024711cc6a3be9d4201935&rid=giphy.gif&ct=g" alt="" width="160" /><img src="https://media2.giphy.com/media/wcgn5fVDjvR7pdvz4C/giphy.gif?cid=790b7611f74f00b2f8a6502c30024711cc6a3be9d4201935&rid=giphy.gif&ct=g" alt="" width="160" /><img src="https://media2.giphy.com/media/wcgn5fVDjvR7pdvz4C/giphy.gif?cid=790b7611f74f00b2f8a6502c30024711cc6a3be9d4201935&rid=giphy.gif&ct=g" alt="" width="160" /> -->
 
-## 🎧 Spotify Playing
-
-<object data="https://now-play.vercel.app/api/generate?uid=6a1e19c6-fab3-4d68-8494-60adafe8a16c" >
-
-  <img src="https://now-play.vercel.app/api/generate?uid=6a1e19c6-fab3-4d68-8494-60adafe8a16c" />
-
-</object>
-
 ## 🕹️ Connect with me
 
 [<img align="left" alt="javierdelgado.com.ve" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
